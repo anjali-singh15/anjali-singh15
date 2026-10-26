@@ -44,14 +44,23 @@
 
 ## 🚀 Featured Projects
 
-### 🧪 01. LabTriage AI
+### 🧪 01. LabTriage AI — Intelligent Laboratory Report Analysis
 
-An AI-focused project exploring intelligent document processing and laboratory-related workflows.
+An AI-powered project focused on simplifying laboratory report analysis through document processing, information extraction, and intelligent insights. The project explores how AI and backend technologies can help transform complex medical laboratory documents into structured, easier-to-understand information.
 
-**Technologies explored:** Python, FastAPI, React, PostgreSQL, LangChain, vector search, OCR, and AI model integrations.
+**✨ Key Areas**
+- 📄 **Document Processing:** Extracting relevant information from uploaded reports and documents.
+- 🔍 **Information Extraction:** Identifying important details from unstructured document content.
+- 🧠 **AI-Assisted Analysis:** Exploring language models and semantic search for understanding extracted information.
+- 🖼️ **OCR & Image Processing:** Working with scanned documents and image-based reports.
+- 📊 **Structured Results:** Organizing extracted information into a format suitable for review and interpretation.
+- 🔐 **Backend & Data Management:** Building APIs and managing application data.
+
+**Tech Stack**
+
+`Python` · `FastAPI` · `React` · `PostgreSQL` · `LangChain` · `Vector Search` · `OCR` · `AI Model Integration` · `Docker`
 
 
----
 
 ### 📊 02. PulseX — Customer 360° Digital Twin
 
@@ -69,7 +78,7 @@ A customer intelligence platform built for the CRM-04 hackathon challenge. Pulse
 
 **Tech Stack**
 
-`React` · `Vite` · `React Router` · `Tailwind CSS` · `Recharts` · `Lucide` · `Node.js` · `Express` · `MongoDB` · `Mongoose` · `Server-Sent Events`
+`React` · `Vite` · `React Router` · `Tailwind CSS` · `Recharts` · `Node.js` · `Express` · `MongoDB` · `Mongoose` · `Server-Sent Events`
 
 **Approach:** Churn-risk estimates use transparent, rule-based logic rather than a trained predictive ML model.
 
